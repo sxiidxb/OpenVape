@@ -30,12 +30,6 @@ This project is an independent research work conducted on a voluntary basis:
 
 The project is independently initiated and maintained by an individual. All views and achievements represent technical research perspectives only and do not imply any other stance.
 
-## Security Notice
-
-This project releases source code and build artifacts solely through this GitHub repository, the [Gitee Mirror Repository](https://gitee.com/OpenVape), and the Bilibili account [Gante393\_](https://space.bilibili.com/3461573733517603) video resources. Files published through these channels are guaranteed to be safe.
-
-The security of any "Vape" related programs published in other GitHub repositories, Discord servers, QQ groups, Telegram groups, third-party websites, or cloud storage disks cannot be guaranteed. This project assumes no responsibility for those programs and any potential losses they may cause.
-
 ## Project Composition
 
 | Repository | Description | Actions Artifacts |
